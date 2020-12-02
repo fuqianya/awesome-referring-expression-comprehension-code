@@ -17,6 +17,6 @@ This repo reproduces a wide rage of papers about Referring Expression Comprehens
 
  **Model** | **Paper** | **Paper** | **Code** 
 |:-:|:-:|:-:|:-:|
-| <div style="width: 130pt">[Mao, 2016'CVPR]</div> |Generation and Comprehension of Unambiguous Object Descriptions| [1511.02283](https://arxiv.org/abs/1511.02283)|  |
+| <div style="width: 130pt">[Mao, 2016'CVPR]</div> |<div style="width: 290pt">Generation and Comprehension of Unambiguous Object Descriptions</div>| [1511.02283](https://arxiv.org/abs/1511.02283)|  |
 | [Hu, 2016'CVPR] | Natural Language Object Retrieval | [1511.04164](https://arxiv.org/abs/1511.04164)| - |
 | <div style="width: 130pt">[Nagaraja, 2016'ECCV]</div> | Modeling Context Between Objects for Referring Expression Understanding | [1608.00525](https://arxiv.org/abs/1608.00525)| - |
