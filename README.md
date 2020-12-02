@@ -1,1 +1,5 @@
-# awesome-referring-expression-comprehension-code
+# Awesome-referring-expression-comprehension-code
+
+![REC](./REC.png)
+
+This repo reproduces a wide rage of papers about Referring Expression Comprehension (REC). The task of REC aims to localize a target object in an image described by a referring expression, as we can see above. In this repo, we advocate **high-quality** implementation. Unlike most open source repos which only implement methods roughly, we carefully check our code and read the original paper to make sure the consistent between them. We also compare the performance of our implementation with the results reported in the original paper to further validate the correctness of our implementation. Only the implementation with closely performance of the original paper will be included in this repository. Furthermore, We rewrite some code, which are originally written with `caffe` or `Tensorflow 1.x` that may bugs someone not familiar with it, with `Tensorflow 2.x` and `PyTorch`.
